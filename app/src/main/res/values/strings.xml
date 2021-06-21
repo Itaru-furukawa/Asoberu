@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ASOBERU</string>
+    <string name="app_subtitle">〜簡単に日程調整〜</string>
+    <string name="button1_info">日程調整を始める</string>
+    <string name="button2_info">日程調整に参加する</string>
+    <string name="output_view_default">Enter your name</string>
+    <string name="input_name_hint">Name</string>
+    <string name="ok_button_label">OK</string>
+    <string name="output_view_format">Hello<br/>nice to see you.</string>
+</resources>
