@@ -46,6 +46,7 @@
         android:layout_height="65dp"
         android:text="@string/button2_info"
         android:textSize="20sp"
+        android:onClick="showDialog2"
         app:backgroundTint="#6FB98F"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

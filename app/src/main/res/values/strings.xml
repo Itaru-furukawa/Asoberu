@@ -1,10 +1,31 @@
 <resources>
+    <!-- MainActivity上のString -->
     <string name="app_name">ASOBERU</string>
     <string name="app_subtitle">〜簡単に日程調整〜</string>
     <string name="button1_info">日程調整を始める</string>
     <string name="button2_info">日程調整に参加する</string>
+    <string name="button3_info">タップして入力</string>
+    <string name="create_dialog_title">日程調整を始めよう！</string>
+    <string name="get_dialog_title">日程調整に参加しよう！</string>
+    <string name="create_dialog_tag1">人数</string>
+    <string name="create_dialog_tag2">あいことば</string>
+    <string name="create_dialog_tag3">日付</string>
+    <string name="create_dialog_tag4">から</string>
+    <string name="create_dialog_tag5">まで</string>
+    <string name="create_dialog_tag6">集合時刻</string>
+    <string name="get_dialog_tag1">スケジュールID</string>
     <string name="output_view_default">Enter your name</string>
     <string name="input_name_hint">Name</string>
     <string name="ok_button_label">OK</string>
     <string name="output_view_format">Hello<br/>nice to see you.</string>
+
+
+    <!-- Fragment1上のString -->
+    <string name="fragment1_name">名前</string>
+    <string name="place">出発地</string>
+    <string name="explain_button">行けない時間</string>
+    <string name="explain_button2">調整結果</string>
+
+    <!-- API接続のURL -->
+    <string name="API_URL">http://192.168.0.200:3000/api/v1/</string>
 </resources>
